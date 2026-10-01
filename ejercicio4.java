@@ -1,7 +1,7 @@
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 
-public class ejemplo4 {
+public class ejercicio4 {
     public static void main(String[] args) {
        
         String path = "./davante.png";
