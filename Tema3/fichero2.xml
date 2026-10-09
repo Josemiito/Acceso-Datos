@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liga nombre="LaLiga" temporada="2025/2026">
+    <equipo id="eq01">
+        <nombre>Real Madrid</nombre>
+        <estadio capacidad="84744">Santiago Bernabéu</estadio>
+        <entrenador>Carlo Ancelotti</entrenador>
+        <plantilla>
+            <jugador dorsal="7" posicion="Delantero">
+                <nombre>Vinicius</nombre>
+                <apellidos>Junior</apellidos>
+                <nacionalidad>Brasil</nacionalidad>
+                <goles>15</goles>
+            </jugador>
+            <jugador dorsal="5" posicion="Centrocampista">
+                <nombre>Jude</nombre>
+                <apellidos>Bellingham</apellidos>
+                <nacionalidad>Inglaterra</nacionalidad>
+                <goles>10</goles>
+            </jugador>
+            <jugador dorsal="1" posicion="Portero">
+                <nombre>Thibaut</nombre>
+                <apellidos>Courtois</apellidos>
+                <nacionalidad>Bélgica</nacionalidad>
+                <goles>0</goles>
+            </jugador>
+        </plantilla>
+    </equipo>
+
+    <equipo id="eq02">
+        <nombre>FC Barcelona</nombre>
+        <estadio capacidad="105000">Spotify Camp Nou</estadio>
+        <entrenador>Hansi Flick</entrenador>
+        <plantilla>
+            <jugador dorsal="9" posicion="Delantero">
+                <nombre>Robert</nombre>
+                <apellidos>Lewandowski</apellidos>
+                <nacionalidad>Polonia</nacionalidad>
+                <goles>18</goles>
+            </jugador>
+            <jugador dorsal="19" posicion="Extremo">
+                <nombre>Lamine</nombre>
+                <apellidos>Yamal</apellidos>
+                <nacionalidad>España</nacionalidad>
+                <goles>8</goles>
+            </jugador>
+            <jugador dorsal="8" posicion="Centrocampista">
+                <nombre>Pedro</nombre>
+                <apellidos>González López</apellidos>
+                <nacionalidad>España</nacionalidad>
+                <goles>4</goles>
+            </jugador>
+        </plantilla>
+    </equipo>
+</liga>
