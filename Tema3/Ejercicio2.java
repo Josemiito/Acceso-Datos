@@ -25,3 +25,5 @@ public class Ejercicio2 {
         }
     }
 }
+
+//El xml trata sobre jugadores tanto del Real Madrid como del FC Barcelona, se incluye nombre, apellidos, nacionalidad y goles, y como atributos del jugador sale la posicion y el dorsal
